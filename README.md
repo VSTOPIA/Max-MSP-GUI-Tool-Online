@@ -32,3 +32,17 @@ Instructions for using the tool will be added as development progresses.
 
 - [GALLERY](https://www.g200kg.com/en/webknobman/gallery.php) - A gallery of GUI designs created with this tool.
 
+## Usage Instructions
+
+### Opening Files for Modification
+To open files for modification in the tool, follow the steps shown in the image below:
+
+![Opening Files](OPEN%20WITH.png)
+
+### Exporting to PNG Sequence for Max/MSP
+After creating your GUI elements, you can export them as a PNG sequence to be imported into Max/MSP:
+
+![Exporting to PNG Sequence](EXPORT.png)
+
+
+
