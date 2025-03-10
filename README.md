@@ -28,7 +28,6 @@ This project is currently in early development. Contributors and testers are wel
 
 ## Getting Started
 
-Instructions for using the tool will be added as development progresses.
 
 - [GALLERY](https://www.g200kg.com/en/webknobman/gallery.php) - A gallery of GUI designs created with this tool.
 
