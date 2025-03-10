@@ -30,6 +30,10 @@ This project is currently in early development. Contributors and testers are wel
 
 Instructions for using the tool will be added as development progresses.
 
+## Tutorials and Resources
+
+- [YouTube Tutorial: Creating UI for Max/MSP Plugins](https://www.youtube.com/watch?v=cSe-Ra8X3bk) - A video demonstration showing how to create UI for Max/MSP plugins using this tool.
+
 ## Contributing
 
 If you're interested in contributing to this project, please check the Issues tab for current tasks or create a new Issue to discuss your ideas.
