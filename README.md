@@ -30,14 +30,5 @@ This project is currently in early development. Contributors and testers are wel
 
 Instructions for using the tool will be added as development progresses.
 
-## Tutorials and Resources
+- [GALLERY](https://www.g200kg.com/en/webknobman/gallery.php) - A gallery of GUI designs created with this tool.
 
-- [YouTube Tutorial: Creating UI for Max/MSP Plugins](https://www.youtube.com/watch?v=cSe-Ra8X3bk) - A video demonstration showing how to create UI for Max/MSP plugins using this tool.
-
-## Contributing
-
-If you're interested in contributing to this project, please check the Issues tab for current tasks or create a new Issue to discuss your ideas.
-
-## License
-
-[License information will be added]
